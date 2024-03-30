@@ -3,7 +3,7 @@ import localFonts from "next/font/local";
 import "../globals.css";
 import Header from "@/app/compoents/front/layout/header";
 
-const lufga = localFont({
+const lufga = localFonts({
   src: [
     {
       path: "../font/Lufga-Regular.ttf",
