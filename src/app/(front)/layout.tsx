@@ -6,7 +6,7 @@ import Header from "@/app/compoents/front/layout/header";
 const lufga = localFonts({
   src: [
     {
-      path: "../font/Lufga-Regular.ttf",
+      path: "../fonts/Lufga-Regular.ttf",
       weight: "400",
       style: "normal",
     },
