@@ -6,22 +6,22 @@ import Header from "@/app/compoents/front/layout/header";
 const lufga = localFont({
   src: [
     {
-      path: "font/lufga-Regular.ttf",
+      path: "../../../public/font/lufga-Regular.ttf",
       weight: "400",
       style: "normal",
     },
     {
-      path: "font/lufga-Italic.ttf",
+      path: "../../../public/font/lufga-Italic.ttf",
       weight: "400",
       style: "italic",
     },
     {
-      path: "font/lufga-Bold.ttf",
+      path: "../../../public/font/lufga-Bold.ttf",
       weight: "700",
       style: "normal",
     },
     {
-      path: "font/lufga-MediumItalic.ttf",
+      path: "../../../public/font/lufga-MediumItalic.ttf",
       weight: "700",
       style: "italic",
     },
